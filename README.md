@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Pandas
 - 💞️ I’m looking to collaborate on Big data projects
-- 📫 How to reach me keybase.io: 
+- 📫 How to reach me keybase.io: I am bcoss (https://keybase.io/bcoss) on keybase.
 
 <!---
 bc0ss/bc0ss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
